@@ -1,8 +1,8 @@
 {
-    "name": "ᎯℕUℛᎯᎶ",
-    "description": "Clone Of ᎯℕUℛᎯᎶ & More Features Added",
+    "name": "ℑ 𝔞𝔪 𝔞𝔩𝔢𝔵𝔞",
+    "description": "Clone Of ℑ 𝔞𝔪 𝔞𝔩𝔢𝔵𝔞 & More Features Added",
     "stack": "container",
-    "logo": "https://telegra.ph/file/9ee1253e36b37a1665ce2.jpg",
+    "logo": "https://telegra.ph/file/fd7acc3383fab26710c37.png",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
-    "repository": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "website": "https://github.co/AM-ROBOTS/AM-ROBOTS",
+    "repository": "https://github.cm/AM-ROBOTS/AM-ROBOTS",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
