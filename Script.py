@@ -14,7 +14,7 @@ class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://beingtek.com/ref/GreyMatter658')
     START_TXT = environ.get("START_TXT", '''<b>𝙷𝚎𝚢 {} 𝙸𝚖 𝚢𝚘𝚞𝚛 𝚊𝚕𝚎𝚡𝚊 𝚒 𝚌𝚊𝚗 𝚐𝚒𝚟𝚎 𝚢𝚘𝚞 𝙼𝚘𝚟𝚒𝚎𝚜 & 𝚂𝚎𝚛𝚒𝚎𝚜 😇.</b>
 
-<i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
+<i>🎯 🅰ᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ 🆂ᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ </i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Alexafs_bot><b>Search Bot</b></a>\n
